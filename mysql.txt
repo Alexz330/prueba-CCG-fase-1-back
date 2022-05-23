@@ -1,0 +1,16 @@
+supervisor
+    id
+    nombres
+    apellidos
+    DPI
+    telefono
+    Direccion
+
+vendedor
+    id
+    nombres
+    apellidos
+    DPI
+    telefono
+    Direccion
+    supervisor_id
